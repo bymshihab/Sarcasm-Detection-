@@ -1,7 +1,7 @@
 
 # Sarcasm Detection  App
 
-This is a simple Flask application written in Python. It provides a basic template for getting started with a Flask project.
+This is a Sarcasm Detection App built using Natural Language Processing (NLP) techniques. The app analyzes text input and predicts whether the given text is sarcastic or not.
 
 ## Prerequisites
 
