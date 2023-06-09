@@ -23,22 +23,8 @@ Before running the application, make sure you have the following installed:
 
 The Flask app should now be running, and you should see the application's homepage.
 
-## Usage
 
-- Modify the existing Flask routes in the `app.py` file or add new routes to build your application's functionality.
-
-- Create templates in the `templates/` directory for rendering HTML pages.
-
-- Static files (CSS, JavaScript, images, etc.) can be placed in the `static/` directory.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+##ScreenShots of my Project:
 
 ![Detection Image](Images/SarcasticText1.PNG)
-
+![Review Image](Images/2sT.PNG)
