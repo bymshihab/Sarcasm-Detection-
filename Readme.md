@@ -1,5 +1,5 @@
 
-# Flask App
+# Sarcasm Detection  App
 
 This is a simple Flask application written in Python. It provides a basic template for getting started with a Flask project.
 
@@ -38,3 +38,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+![Detection Image](path/to/image.png)
+
