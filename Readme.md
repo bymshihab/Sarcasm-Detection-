@@ -27,4 +27,4 @@ The Flask app should now be running, and you should see the application's homepa
 ##ScreenShots of my Project:
 
 ![Detection Image](Images/SarcasticText1.PNG)
-![Review Image](Images/2sT.PNG)
+![Review Image](Images/review.PNG)
